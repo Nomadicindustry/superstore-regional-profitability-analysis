@@ -1,35 +1,43 @@
+# Superstore Regional Profitability & Discount Analysis
+
 ![Dashboard Preview](dashboard-preview.png)
-# superstore-regional-profitability-analysis
-Overview
 
-Interactive Power BI dashboard analyzing 9,000+ Superstore transactions to evaluate regional sales performance, profit trends, and discount impact.
+## Overview
+This project presents an interactive Power BI dashboard analyzing 9,000+ Superstore transactions to evaluate regional sales performance, profitability trends, and the impact of discount strategies on margin outcomes.
 
-Tools Used
+The objective was to identify performance gaps across regions and determine whether discount behavior contributed to reduced profitability.
 
-Power BI
+---
 
-DAX
+## Tools & Technologies
+- Power BI
+- DAX
+- Microsoft Excel
+- Regression & Correlation Analysis
+- Data Visualization & Dashboard Design
 
-Excel
+---
 
-Data Visualization & Regression Analysis
+## Key Insights
+- Identified a moderate positive relationship between Sales and Profit at the transaction level.
+- Determined that the Central region underperforms in average profitability compared to other regions.
+- Found that elevated average discount rates in the Central region likely contribute to reduced profit margins.
+- Designed an interactive regional slicer enabling dynamic user-driven comparison.
 
-Key Insights
+---
 
-Identified moderate positive relationship between Sales and Profit at the transaction level
+## Dashboard Features
+- KPI summary (Revenue, Profit, Profit Margin, Discount Rate)
+- Transaction-level Sales vs. Profit scatter visualization
+- Regional profitability comparison
+- Regional discount comparison
+- Interactive region filter
 
-Central region underperforms in average profitability
+---
 
-Elevated discount rates in Central likely contribute to reduced margins
+## Files Included
+- `Superstore Dashboard.pbix`
+- `Dashboard PDF Export.pdf`
+- `Cleaned Superstore Dataset.xlsx`
+- `Analytical Report.pdf`
 
-Designed interactive regional slicer for user-driven analysis
-
-Files Included
-
-Power BI Dashboard (.pbix)
-
-Dashboard PDF Export
-
-Cleaned Excel Dataset
-
-Written Analytical Report
