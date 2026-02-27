@@ -1,3 +1,4 @@
+![Dashboard Preview](dashboard-preview.png)
 # superstore-regional-profitability-analysis
 Overview
 
